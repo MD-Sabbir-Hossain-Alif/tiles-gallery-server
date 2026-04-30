@@ -1,10 +1,10 @@
 {
     "tiles_data": [
         {
-            "id": "tile_001",
+            "id": "001",
             "title": "Ceramic Blue Tile",
             "description": "This stunning premium ceramic tile features a beautiful, vibrant blue glaze finish that brings a refreshing and calming presence to any space. The rich blue tone has a subtle glossy sheen that catches light elegantly, creating depth and character. Measuring 60x60 cm, it offers a perfect balance between practicality and visual impact. Priced at $45.99 USD, this versatile tile is suitable for both modern bathrooms, kitchen backsplashes, and feature walls. It is currently in stock.",
-            "image": "https://i.ibb.co.com/HTYLKSqX/tile1.png",
+            "image": "https://i.ibb.co/HTYLKSqX/tile1.png",
             "category": "ceramic",
             "price": 45.99,
             "currency": "USD",
@@ -13,10 +13,10 @@
             "inStock": true
         },
         {
-            "id": "tile_002",
+            "id": "002",
             "title": "Marble White Gloss",
             "description": "An elegant polished marble-effect porcelain tile that exudes sophistication and timeless luxury. This tile beautifully mimics the natural veining and smooth surface of real marble with a high-gloss finish that enhances brightness and makes spaces feel larger and more refined. With generous dimensions of 80x80 cm, it is ideal for large floor areas or statement walls. Priced at $68.50 USD, it is perfect for high-end interiors. This tile is in stock.",
-            "image": "https://i.ibb.co.com/KczRx64d/tile2.png",
+            "image": "https://i.ibb.co/KczRx64d/tile2.png",
             "category": "porcelain",
             "price": 68.5,
             "currency": "USD",
@@ -25,10 +25,10 @@
             "inStock": true
         },
         {
-            "id": "tile_003",
+            "id": "003",
             "title": "Terracotta Rustic",
             "description": "A charming handcrafted terracotta tile that captures the warmth and authenticity of traditional craftsmanship. It showcases natural earthy tones ranging from soft terracotta reds to warm browns, with slight variations in texture and color that give each piece a unique, artisanal character. Sized at 30x30 cm, this tile brings a cozy, Mediterranean or rustic farmhouse feel to floors and walls. Priced affordably at $32.99 USD, it is currently out of stock.",
-            "image": "https://i.ibb.co.com/5hzpmWyj/tile3.png",
+            "image": "https://i.ibb.co/5hzpmWyj/tile3.png",
             "category": "terracotta",
             "price": 32.99,
             "currency": "USD",
@@ -37,10 +37,10 @@
             "inStock": false
         },
         {
-            "id": "tile_004",
+            "id": "004",
             "title": "Matte Black Ceramic",
             "description": "A bold and contemporary matte finish black ceramic tile designed for modern interiors. Its deep, velvety matte surface absorbs light rather than reflecting it, creating a sophisticated, dramatic, and minimalist aesthetic. The large rectangular format of 60x120 cm makes it highly suitable for both wall and floor applications, especially in bathrooms, kitchens, or commercial spaces with an industrial or luxury modern vibe. Priced at $39.99 USD and in stock.",
-            "image": "https://i.ibb.co.com/6R5LKSWd/tile4.png",
+            "image": "https://i.ibb.co/6R5LKSWd/tile4.png",
             "category": "ceramic",
             "price": 39.99,
             "currency": "USD",
@@ -49,10 +49,10 @@
             "inStock": true
         },
         {
-            "id": "tile_005",
+            "id": "005",
             "title": "Wood Look Plank",
             "description": "This highly realistic oak wood effect porcelain plank tile offers the natural beauty and warmth of real hardwood without the drawbacks of traditional wood flooring. It features authentic wood grain patterns, subtle color variations, and a natural matte finish. The elongated plank format (20x120 cm) creates a seamless, flowing look that works beautifully in living rooms, bedrooms, and hallways. Priced at $52.75 USD and currently in stock.",
-            "image": "https://i.ibb.co.com/x8qLQm4n/tile5.png",
+            "image": "https://i.ibb.co/x8qLQm4n/tile5.png",
             "category": "porcelain",
             "price": 52.75,
             "currency": "USD",
@@ -61,10 +61,10 @@
             "inStock": true
         },
         {
-            "id": "tile_006",
+            "id": "006",
             "title": "Mosaic Emerald Green",
             "description": "A luxurious emerald green glass mosaic tile sheet that delivers exceptional visual impact and opulence. The deep, jewel-like emerald green color combined with the reflective quality of glass creates a rich, vibrant, and elegant effect. Each 30x30 cm sheet is perfect for accent walls, shower niches, kitchen backsplashes, or spa-like bathroom designs. As the most premium option in the collection at $89.99 USD, it is in stock.",
-            "image": "https://i.ibb.co.com/XrFqh0YF/tile6.png",
+            "image": "https://i.ibb.co/XrFqh0YF/tile6.png",
             "category": "mosaic",
             "price": 89.99,
             "currency": "USD",
@@ -73,10 +73,10 @@
             "inStock": true
         },
         {
-            "id": "tile_007",
+            "id": "007",
             "title": "Grey Stone Effect",
             "description": "A natural-looking grey slate stone effect porcelain tile that brings the rugged beauty of natural stone indoors. It features subtle texture variations, realistic stone markings, and a sophisticated cool grey palette. Sized at 60x60 cm, this tile is versatile enough for both classic and contemporary interiors, making it an excellent choice for living areas, entryways, or commercial flooring. Priced at $47.25 USD and in stock.",
-            "image": "https://i.ibb.co.com/yBF1g390/tile7.png",
+            "image": "https://i.ibb.co/yBF1g390/tile7.png",
             "category": "porcelain",
             "price": 47.25,
             "currency": "USD",
@@ -85,10 +85,10 @@
             "inStock": true
         },
         {
-            "id": "tile_008",
+            "id": "008",
             "title": "Patterned Moroccan",
             "description": "A traditional handmade-style patterned cement tile inspired by classic Moroccan craftsmanship. It features intricate geometric or floral patterns with rich, artistic detailing that can create stunning visual rhythm when laid in repeating designs. The compact 20x20 cm size makes it ideal for decorative floors, borders, or entire feature areas. Priced at $55.00 USD, this artistic tile is currently out of stock.",
-            "image": "https://i.ibb.co.com/Zz4McfSG/tile8.png",
+            "image": "https://i.ibb.co/Zz4McfSG/tile8.png",
             "category": "cement",
             "price": 55.0,
             "currency": "USD",
@@ -97,10 +97,10 @@
             "inStock": false
         },
         {
-            "id": "tile_009",
+            "id": "009",
             "title": "Glossy White Subway",
             "description": "The classic glossy white ceramic subway tile that never goes out of style. With its clean, bright white color and reflective glossy finish, it delivers a crisp, fresh, and timeless look. The traditional brick-style dimensions of 10x30 cm are perfect for kitchen backsplashes, bathroom walls, or creating clean horizontal lines. This budget-friendly yet elegant option is priced at $28.99 USD and is in stock.",
-            "image": "https://i.ibb.co.com/JWWbwCmq/tile9.png",
+            "image": "https://i.ibb.co/JWWbwCmq/tile9.png",
             "category": "ceramic",
             "price": 28.99,
             "currency": "USD",
@@ -109,10 +109,10 @@
             "inStock": true
         },
         {
-            "id": "tile_010",
+            "id": "010",
             "title": "Gold Veined Marble",
             "description": "The most luxurious tile in the collection — a premium white marble effect porcelain tile with striking gold veins running through it. This design beautifully replicates high-end Calacatta or Statuario marble with elegant gold accents, offering unmatched sophistication and glamour. The large 60x120 cm format enhances the dramatic veining. Priced at $95.50 USD, it is ideal for luxury residences, hotels, and high-end commercial projects. It is currently in stock.",
-            "image": "https://i.ibb.co.com/v9zzDzg/tile10.png",
+            "image": "https://i.ibb.co/v9zzDzg/tile10.png",
             "category": "porcelain",
             "price": 95.5,
             "currency": "USD",
@@ -123,10 +123,10 @@
     ],
     "feature_tiles": [
         {
-            "id": "tile_001",
+            "id": "001",
             "title": "Ceramic Blue Tile",
             "description": "This stunning premium ceramic tile features a beautiful, vibrant blue glaze finish that brings a refreshing and calming presence to any space. The rich blue tone has a subtle glossy sheen that catches light elegantly, creating depth and character. Measuring 60x60 cm, it offers a perfect balance between practicality and visual impact. Priced at $45.99 USD, this versatile tile is suitable for both modern bathrooms, kitchen backsplashes, and feature walls. It is currently in stock.",
-            "image": "https://i.ibb.co.com/HTYLKSqX/tile1.png",
+            "image": "https://i.ibb.co/HTYLKSqX/tile1.png",
             "category": "ceramic",
             "price": 45.99,
             "currency": "USD",
@@ -135,10 +135,10 @@
             "inStock": true
         },
         {
-            "id": "tile_002",
+            "id": "002",
             "title": "Marble White Gloss",
             "description": "An elegant polished marble-effect porcelain tile that exudes sophistication and timeless luxury. This tile beautifully mimics the natural veining and smooth surface of real marble with a high-gloss finish that enhances brightness and makes spaces feel larger and more refined. With generous dimensions of 80x80 cm, it is ideal for large floor areas or statement walls. Priced at $68.50 USD, it is perfect for high-end interiors. This tile is in stock.",
-            "image": "https://i.ibb.co.com/KczRx64d/tile2.png",
+            "image": "https://i.ibb.co/KczRx64d/tile2.png",
             "category": "porcelain",
             "price": 68.5,
             "currency": "USD",
@@ -147,10 +147,10 @@
             "inStock": true
         },
         {
-            "id": "tile_003",
+            "id": "003",
             "title": "Terracotta Rustic",
             "description": "A charming handcrafted terracotta tile that captures the warmth and authenticity of traditional craftsmanship. It showcases natural earthy tones ranging from soft terracotta reds to warm browns, with slight variations in texture and color that give each piece a unique, artisanal character. Sized at 30x30 cm, this tile brings a cozy, Mediterranean or rustic farmhouse feel to floors and walls. Priced affordably at $32.99 USD, it is currently out of stock.",
-            "image": "https://i.ibb.co.com/5hzpmWyj/tile3.png",
+            "image": "https://i.ibb.co/5hzpmWyj/tile3.png",
             "category": "terracotta",
             "price": 32.99,
             "currency": "USD",
@@ -159,10 +159,10 @@
             "inStock": false
         },
         {
-            "id": "tile_004",
+            "id": "004",
             "title": "Matte Black Ceramic",
             "description": "A bold and contemporary matte finish black ceramic tile designed for modern interiors. Its deep, velvety matte surface absorbs light rather than reflecting it, creating a sophisticated, dramatic, and minimalist aesthetic. The large rectangular format of 60x120 cm makes it highly suitable for both wall and floor applications, especially in bathrooms, kitchens, or commercial spaces with an industrial or luxury modern vibe. Priced at $39.99 USD and in stock.",
-            "image": "https://i.ibb.co.com/6R5LKSWd/tile4.png",
+            "image": "https://i.ibb.co/6R5LKSWd/tile4.png",
             "category": "ceramic",
             "price": 39.99,
             "currency": "USD",
