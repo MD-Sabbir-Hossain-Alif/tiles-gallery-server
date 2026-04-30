@@ -1,0 +1,174 @@
+{
+    "tiles_data": [
+        {
+            "id": "tile_001",
+            "title": "Ceramic Blue Tile",
+            "description": "Premium ceramic tile with blue glaze finish",
+            "image": "/images/tiles/tile_001.jpg",
+            "category": "ceramic",
+            "price": 45.99,
+            "currency": "USD",
+            "dimensions": "60x60 cm",
+            "material": "Ceramic",
+            "inStock": true
+        },
+        {
+            "id": "tile_002",
+            "title": "Marble White Gloss",
+            "description": "Elegant polished marble effect porcelain tile",
+            "image": "/images/tiles/tile_002.jpg",
+            "category": "porcelain",
+            "price": 68.5,
+            "currency": "USD",
+            "dimensions": "80x80 cm",
+            "material": "Porcelain",
+            "inStock": true
+        },
+        {
+            "id": "tile_003",
+            "title": "Terracotta Rustic",
+            "description": "Handcrafted terracotta tile with natural earthy tone",
+            "image": "/images/tiles/tile_003.jpg",
+            "category": "terracotta",
+            "price": 32.99,
+            "currency": "USD",
+            "dimensions": "30x30 cm",
+            "material": "Terracotta",
+            "inStock": false
+        },
+        {
+            "id": "tile_004",
+            "title": "Matte Black Ceramic",
+            "description": "Modern matte finish black ceramic wall and floor tile",
+            "image": "/images/tiles/tile_004.jpg",
+            "category": "ceramic",
+            "price": 39.99,
+            "currency": "USD",
+            "dimensions": "60x120 cm",
+            "material": "Ceramic",
+            "inStock": true
+        },
+        {
+            "id": "tile_005",
+            "title": "Wood Look Plank",
+            "description": "Realistic oak wood effect porcelain plank tile",
+            "image": "/images/tiles/tile_005.jpg",
+            "category": "porcelain",
+            "price": 52.75,
+            "currency": "USD",
+            "dimensions": "20x120 cm",
+            "material": "Porcelain",
+            "inStock": true
+        },
+        {
+            "id": "tile_006",
+            "title": "Mosaic Emerald Green",
+            "description": "Luxurious emerald green glass mosaic tile sheet",
+            "image": "/images/tiles/tile_006.jpg",
+            "category": "mosaic",
+            "price": 89.99,
+            "currency": "USD",
+            "dimensions": "30x30 cm",
+            "material": "Glass",
+            "inStock": true
+        },
+        {
+            "id": "tile_007",
+            "title": "Grey Stone Effect",
+            "description": "Natural grey slate stone look porcelain tile",
+            "image": "/images/tiles/tile_007.jpg",
+            "category": "porcelain",
+            "price": 47.25,
+            "currency": "USD",
+            "dimensions": "60x60 cm",
+            "material": "Porcelain",
+            "inStock": true
+        },
+        {
+            "id": "tile_008",
+            "title": "Patterned Moroccan",
+            "description": "Traditional handmade style patterned cement tile",
+            "image": "/images/tiles/tile_008.jpg",
+            "category": "cement",
+            "price": 55.0,
+            "currency": "USD",
+            "dimensions": "20x20 cm",
+            "material": "Cement",
+            "inStock": false
+        },
+        {
+            "id": "tile_009",
+            "title": "Glossy White Subway",
+            "description": "Classic glossy white ceramic subway tile",
+            "image": "/images/tiles/tile_009.jpg",
+            "category": "ceramic",
+            "price": 28.99,
+            "currency": "USD",
+            "dimensions": "10x30 cm",
+            "material": "Ceramic",
+            "inStock": true
+        },
+        {
+            "id": "tile_010",
+            "title": "Gold Veined Marble",
+            "description": "Luxury white marble with gold veins porcelain tile",
+            "image": "/images/tiles/tile_010.jpg",
+            "category": "porcelain",
+            "price": 95.5,
+            "currency": "USD",
+            "dimensions": "60x120 cm",
+            "material": "Porcelain",
+            "inStock": true
+        }
+    ],
+    "feature_tiles": [
+        {
+            "id": "tile_001",
+            "title": "Ceramic Blue Tile",
+            "description": "Premium ceramic tile with blue glaze finish",
+            "image": "/images/tiles/tile_001.jpg",
+            "category": "ceramic",
+            "price": 45.99,
+            "currency": "USD",
+            "dimensions": "60x60 cm",
+            "material": "Ceramic",
+            "inStock": true
+        },
+        {
+            "id": "tile_002",
+            "title": "Marble White Gloss",
+            "description": "Elegant polished marble effect porcelain tile",
+            "image": "/images/tiles/tile_002.jpg",
+            "category": "porcelain",
+            "price": 68.5,
+            "currency": "USD",
+            "dimensions": "80x80 cm",
+            "material": "Porcelain",
+            "inStock": true
+        },
+        {
+            "id": "tile_003",
+            "title": "Terracotta Rustic",
+            "description": "Handcrafted terracotta tile with natural earthy tone",
+            "image": "/images/tiles/tile_003.jpg",
+            "category": "terracotta",
+            "price": 32.99,
+            "currency": "USD",
+            "dimensions": "30x30 cm",
+            "material": "Terracotta",
+            "inStock": false
+        },
+        {
+            "id": "tile_004",
+            "title": "Matte Black Ceramic",
+            "description": "Modern matte finish black ceramic wall and floor tile",
+            "image": "/images/tiles/tile_004.jpg",
+            "category": "ceramic",
+            "price": 39.99,
+            "currency": "USD",
+            "dimensions": "60x120 cm",
+            "material": "Ceramic",
+            "inStock": true
+        }
+    ]
+}
